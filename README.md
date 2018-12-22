@@ -5,6 +5,7 @@
 [![Code analysis](https://api.codeclimate.com/v1/badges/e9b796130e29aee4672f/maintainability)](https://codeclimate.com/github/KarrLab/datanator)
 [![License](https://img.shields.io/github/license/KarrLab/datanator.svg)](LICENSE)
 ![Analytics](https://ga-beacon.appspot.com/UA-86759801-1/datanator/README.md?pixel)
+# This is a forked repo from the KarrLab group for personal experimentaion 
 
 # Datanator: Toolkit for discovering and aggregating data for whole-cell modeling
 
